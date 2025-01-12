@@ -1,7 +1,7 @@
 # Escape-the-Museum-Game
 An escape room game made for ICS 4U1 with Renee and Luka
 
-Download and extract all files then run EscapeRoom.java to play
+Download and extract all files then run /scr/EscapeRoom.java to play
 
 Use WASD to move around. Press E to interact with objects. Use the mouse to select / pickup items.
 
